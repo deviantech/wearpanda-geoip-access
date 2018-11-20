@@ -7,5 +7,5 @@
 # routing internally.
 [[redirects]]
   from = "/ip/*"
-  to = "http://api.ipstack.com/check?access_key=52231fa78545844685f2819ce71e8486&output=json&legacy=1"
+  to = "http://api.ipstack.com/check"
   status = 200
